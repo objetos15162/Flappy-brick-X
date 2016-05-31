@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TuberiaArri
+comment0.text=\n\ Write\ a\ description\ of\ class\ TuberiaArri\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=Nivel
+comment1.target=TuberiaArri(int)
+comment1.text=\n\ constrcutor\ de\ tuberia\n\ @param\ nivel\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ TuberiaArri\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Personajes
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Personajes\ here.\r\n\ Aqui\ se\ encuentran\ todo\ los\ metodo\ necesarios\ para\ que\ los\ personajes\ se\ pueden\ mover.\r\n\ @author\ (Enrique\ Martinez\ Ramirez)\r\n\ @autor\ (patricio)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Personajes\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ displayGameOver()
+comment2.text=\r\n\ Genera\ la\ imagen\ Gameover\r\n\ La\ agrega\ al\ mundo\r\n\ Detiene\ el\ juego\r\n\ No\ recibe\ parametros\r\n
+comment3.params=
+comment3.target=void\ rotacion()
+comment3.text=\r\n\ Se\ encaga\ de\ la\ rotacion\ del\ personaje\ dependiendo\ de\ la\ direccion\ en\ y\r\n
+comment4.params=
+comment4.target=void\ Choca()
+comment4.text=\r\n\ Detecta\ si\ hubo\ un\ choque\ con\ las\ tuberias\r\n
+comment5.params=
+comment5.target=void\ Mueve()
+comment5.text=\r\n\ Hace\ que\ el\ jugador\ salte\ solo\ para\ FLAPPY.\r\n
+comment6.params=
+comment6.target=void\ Bala()
+comment6.text=\r\n\ Se\ encarga\ de\ disparar\ y\ dibujar\ la\ bala\r\n
+comment7.params=imagen1\ imagen2
+comment7.target=void\ Movimiento(greenfoot.GreenfootImage,\ greenfoot.GreenfootImage)
+comment7.text=\r\n\ Mueve\ a\ los\ demas\ personajes\ creando\ un\ efecto\ de\ animacion\r\n
+numComments=8
